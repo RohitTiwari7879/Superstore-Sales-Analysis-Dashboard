@@ -46,9 +46,9 @@ Using Power BI, we created an interactive dashboard to visualize and analyze:
 - **Furniture** sales have seasonal trends with high returns.
 - Discounts are directly impacting profit margins in some categories.
 
-![Full Dashboard](/images/all.png)
+![Full Dashboard](/image/all.png)
 
-![Forcasting Dashboard](/images/forcasting.png)
+![Forcasting Dashboard](/image/forcasting.png)
 
 ## 📥 Getting Started
 
