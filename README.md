@@ -67,7 +67,7 @@ Using Power BI, we created an interactive dashboard to visualize and analyze:
 This dataset is a common sample used in data visualization and business analysis training programs. All visuals are built for educational and demonstration purposes.  
   
 
-**Thank You**  
-Akash Arora
+**Thank You** 
+Rohit Tiwari
 
 
